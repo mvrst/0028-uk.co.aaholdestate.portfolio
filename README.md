@@ -9,6 +9,7 @@ Flutter implementation scaffold and **complete** Pencil design export for **AA1 
 | `lib/screens/` | One widget file per app screen (and store assets); replace `DesignReferenceScaffold` with real UI over time. |
 | `lib/design/reference_assets.dart` | Central list of exported frame asset paths. |
 | `design/source/0028.pen` | Original Pencil document (optional; encrypted in Pencil only). |
+| `design/source/images/` | Generated PNGs referenced as `./images/...` from that `.pen` file path. |
 | `design/exports/screens/` | PNG exports keyed by Pencil node id (stable for diffing). |
 | `design/exports/screens/by_slug/` | Same exports with readable filenames. |
 | `design/exports/screens/manifest.json` | Maps Pencil node id ↔ slug ↔ Dart file ↔ route. |
