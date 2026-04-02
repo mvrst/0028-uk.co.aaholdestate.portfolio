@@ -1,0 +1,160 @@
+{
+  "pencilSource": "design/source/0028.pen",
+  "exportScale": 2,
+  "format": "png",
+  "items": [
+    {
+      "slug": "01_splash",
+      "pencilNodeId": "FXtQc",
+      "pencilName": "Screen 01 — Splash",
+      "exportById": "FXtQc.png",
+      "exportBySlug": "by_slug/01_splash.png",
+      "dartFile": "lib/screens/screen_01_splash.dart",
+      "route": "/screen/01-splash"
+    },
+    {
+      "slug": "02_onboarding_investment",
+      "pencilNodeId": "NKC6h",
+      "pencilName": "Screen 02 — Onboarding Investment",
+      "exportById": "NKC6h.png",
+      "exportBySlug": "by_slug/02_onboarding_investment.png",
+      "dartFile": "lib/screens/screen_02_onboarding_investment.dart",
+      "route": "/screen/02-onboarding-investment"
+    },
+    {
+      "slug": "03_onboarding_oversight",
+      "pencilNodeId": "jECoL",
+      "pencilName": "Screen 03 — Onboarding Oversight",
+      "exportById": "jECoL.png",
+      "exportBySlug": "by_slug/03_onboarding_oversight.png",
+      "dartFile": "lib/screens/screen_03_onboarding_oversight.dart",
+      "route": "/screen/03-onboarding-oversight"
+    },
+    {
+      "slug": "04_dashboard",
+      "pencilNodeId": "7seKZ",
+      "pencilName": "Screen 04 — Dashboard",
+      "exportById": "7seKZ.png",
+      "exportBySlug": "by_slug/04_dashboard.png",
+      "dartFile": "lib/screens/screen_04_dashboard.dart",
+      "route": "/screen/04-dashboard"
+    },
+    {
+      "slug": "05_property_list",
+      "pencilNodeId": "MAZYf",
+      "pencilName": "Screen 05 — Property List",
+      "exportById": "MAZYf.png",
+      "exportBySlug": "by_slug/05_property_list.png",
+      "dartFile": "lib/screens/screen_05_property_list.dart",
+      "route": "/screen/05-property-list"
+    },
+    {
+      "slug": "06_property_detail",
+      "pencilNodeId": "avOby",
+      "pencilName": "Screen 06 — Property Detail",
+      "exportById": "avOby.png",
+      "exportBySlug": "by_slug/06_property_detail.png",
+      "dartFile": "lib/screens/screen_06_property_detail.dart",
+      "route": "/screen/06-property-detail"
+    },
+    {
+      "slug": "07_assessment",
+      "pencilNodeId": "zrVPf",
+      "pencilName": "Screen 07 — Assessment",
+      "exportById": "zrVPf.png",
+      "exportBySlug": "by_slug/07_assessment.png",
+      "dartFile": "lib/screens/screen_07_assessment.dart",
+      "route": "/screen/07-assessment"
+    },
+    {
+      "slug": "08_document_vault",
+      "pencilNodeId": "6PY72",
+      "pencilName": "Screen 08 — Document Vault",
+      "exportById": "6PY72.png",
+      "exportBySlug": "by_slug/08_document_vault.png",
+      "dartFile": "lib/screens/screen_08_document_vault.dart",
+      "route": "/screen/08-document-vault"
+    },
+    {
+      "slug": "09_maintenance_request",
+      "pencilNodeId": "XmJ7h",
+      "pencilName": "Screen 09 — Maintenance Request",
+      "exportById": "XmJ7h.png",
+      "exportBySlug": "by_slug/09_maintenance_request.png",
+      "dartFile": "lib/screens/screen_09_maintenance_request.dart",
+      "route": "/screen/09-maintenance-request"
+    },
+    {
+      "slug": "10_profile",
+      "pencilNodeId": "vnJVe",
+      "pencilName": "Screen 10 — Profile",
+      "exportById": "vnJVe.png",
+      "exportBySlug": "by_slug/10_profile.png",
+      "dartFile": "lib/screens/screen_10_profile.dart",
+      "route": "/screen/10-profile"
+    },
+    {
+      "slug": "11_my_investments",
+      "pencilNodeId": "dTCaE",
+      "pencilName": "Screen 11 — My Investments",
+      "exportById": "dTCaE.png",
+      "exportBySlug": "by_slug/11_my_investments.png",
+      "dartFile": "lib/screens/screen_11_my_investments.dart",
+      "route": "/screen/11-my-investments"
+    },
+    {
+      "slug": "12_edit_profile",
+      "pencilNodeId": "CmrX2",
+      "pencilName": "Screen 12 — Edit Profile",
+      "exportById": "CmrX2.png",
+      "exportBySlug": "by_slug/12_edit_profile.png",
+      "dartFile": "lib/screens/screen_12_edit_profile.dart",
+      "route": "/screen/12-edit-profile"
+    },
+    {
+      "slug": "13_contact",
+      "pencilNodeId": "2zy9b",
+      "pencilName": "Screen 13 — Contact",
+      "exportById": "2zy9b.png",
+      "exportBySlug": "by_slug/13_contact.png",
+      "dartFile": "lib/screens/screen_13_contact.dart",
+      "route": "/screen/13-contact"
+    },
+    {
+      "slug": "14_settings",
+      "pencilNodeId": "CEv7N",
+      "pencilName": "Screen 14 — Settings",
+      "exportById": "CEv7N.png",
+      "exportBySlug": "by_slug/14_settings.png",
+      "dartFile": "lib/screens/screen_14_settings.dart",
+      "route": "/screen/14-settings"
+    },
+    {
+      "slug": "15_legal_information",
+      "pencilNodeId": "RrijH",
+      "pencilName": "Screen 15 — Legal Information",
+      "exportById": "RrijH.png",
+      "exportBySlug": "by_slug/15_legal_information.png",
+      "dartFile": "lib/screens/screen_15_legal_information.dart",
+      "route": "/screen/15-legal-information"
+    },
+    {
+      "slug": "asset_app_icon",
+      "pencilNodeId": "xzYCx",
+      "pencilName": "Asset — App Icon",
+      "exportById": "xzYCx.png",
+      "exportBySlug": "by_slug/asset_app_icon.png",
+      "dartFile": "lib/screens/asset_app_icon_screen.dart",
+      "route": "/asset/app-icon"
+    },
+    {
+      "slug": "asset_google_play_banner",
+      "pencilNodeId": "aRcCc",
+      "pencilName": "Asset — Google Play Banner",
+      "exportById": "aRcCc.png",
+      "exportBySlug": "by_slug/asset_google_play_banner.png",
+      "dartFile": "lib/screens/asset_google_play_banner_screen.dart",
+      "route": "/asset/google-play-banner"
+    }
+  ]
+}
